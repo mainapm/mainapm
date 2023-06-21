@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mainapm
 - 👀 I’m interested in UI/UX
-- 🌱 I’m currently learning C++ HTML
+- 🌱 I’m currently learning C++ HTML CSS JAVA
 - 📫 How to reach me puritymainam@gmail.com
 
 <!---
